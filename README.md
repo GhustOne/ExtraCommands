@@ -27,3 +27,6 @@ if you type nothing it'll run the feature
 `name value [num]` - changes its value if it has one
 
 if you type nothing it'll switch state
+
+## Credits
+Aren's original console, stole some ideas from it
